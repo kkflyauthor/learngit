@@ -1,3 +1,5 @@
+i
+wore
 test
 addd
 ta is a distributed version control system.Git is free software.
